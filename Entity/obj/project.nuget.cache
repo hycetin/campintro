@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eq/6RzVVEwS031budKUwVcra1tJklR23oQAEawxzC3FXqylGcDZtMM5070MVZLdvg/kKROv0fOo2WUSQ/70SLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hynsd\\source\\repos\\RecapProject\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hynsd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hynsd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
